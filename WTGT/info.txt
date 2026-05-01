@@ -1,0 +1,1 @@
+an old web application for uploading video from peer to peer, has never been finished due to technical reasons and has long since abandoned. i worked on the backend and nagi (my friend) worked on the frontend
